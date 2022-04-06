@@ -6,4 +6,4 @@ Link to live deployement: https://amirb97.github.io/React-Portfolio-Challenge/
 
 Screenshot of live site:
 
-![Screenshot of webpage](./assets/images/react.png?raw=true)
+![Screenshot of webpage](./assets/images/React.png?raw=true)
