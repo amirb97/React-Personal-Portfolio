@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Challenge/static/css/main.225958cf.css",
+    "main.js": "/React-Portfolio-Challenge/static/js/main.bfeadc56.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/React-Portfolio-Challenge/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/take-a-hike.png": "/React-Portfolio-Challenge/static/media/take-a-hike.8b675603aee0d2c782e9.png",
+    "static/media/voto.png": "/React-Portfolio-Challenge/static/media/voto.c298c9a3869e2e3f1357.png",
+    "static/media/profile-pic.jpg": "/React-Portfolio-Challenge/static/media/profile-pic.2a2b73e452a4731be3f5.jpg",
+    "static/media/tech-blog.png": "/React-Portfolio-Challenge/static/media/tech-blog.1b819aff3d05fe93cb99.png",
+    "static/media/sucasa.jpg": "/React-Portfolio-Challenge/static/media/sucasa.cf6bc35e3839e01c604f.jpg",
+    "static/media/Resume.docx": "/React-Portfolio-Challenge/static/media/Resume.2e22eb4372f6fa8d0687.docx",
+    "static/media/weather-dashboard.png": "/React-Portfolio-Challenge/static/media/weather-dashboard.bcec52dcc4619a8af010.png",
+    "static/media/password-generator.png": "/React-Portfolio-Challenge/static/media/password-generator.c47ac874ac3c78622163.png",
+    "index.html": "/React-Portfolio-Challenge/index.html",
+    "main.225958cf.css.map": "/React-Portfolio-Challenge/static/css/main.225958cf.css.map",
+    "main.bfeadc56.js.map": "/React-Portfolio-Challenge/static/js/main.bfeadc56.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/React-Portfolio-Challenge/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225958cf.css",
+    "static/js/main.bfeadc56.js"
+  ]
+}
